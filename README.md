@@ -40,10 +40,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrieloliveiramp3&show_icons=true&theme=merko)
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieloliveiramp3&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieloliveiramp3&layout=compact&theme=merko)](https://github.com/gabrieloliveiramp3/github-readme-stats)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrieloliveiramp3&theme=merko" alt="Gabrieloliveiramp3" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieloliveiramp3&theme=merko" alt="Gabrieloliveiramp3" /></p>
 
 <!-- 
 --https://emojipedia.org/grinning-face-with-big-eyes/ 
