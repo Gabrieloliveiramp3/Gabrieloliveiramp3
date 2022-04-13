@@ -52,5 +52,6 @@ https://picrew.me/image_maker/338224
 https://github.com/anuraghazra/github-readme-stats
 https://github.com/Ileriayo/markdown-badges/edit/master/README.md#markdown-badges
 https://devicon.dev/
-
+Site que faz todo para personalizar o github->
+https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
