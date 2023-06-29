@@ -4,7 +4,7 @@
 <img alt="Night Coding" src="./Asset/Hand%20Wave.gif" width='40' align="left"/><h1>Hi! I'm Gabriel!</h1>
 
 ## 👩‍💻 About me :
- * <h2>Graduando no curso Análise e Desenvolvimento de Sistemas!
+ * <h2>Analista de Sistemas
  * <h2>Cursos até o momento: Machine Learning, Quality Assurance (QA), Full Stack.
 
 
